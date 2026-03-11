@@ -1,0 +1,3 @@
+Hellos this is a try to learn how to edit a txt file using terminal by nano command
+This line also added by using vim command to test how to exit
+

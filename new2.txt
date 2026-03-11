@@ -1,0 +1,4 @@
+This is another way to add one line txt into txt file when it is being created 
+
+This is a new line added after creating this text file "I use vim command"
+
